@@ -1,0 +1,4 @@
+name: roundagain
+recipe: drupal8
+config:
+  webroot: web
